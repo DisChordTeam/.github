@@ -1,5 +1,5 @@
 # DisChord
-
+![Black Elegant and Modern Startup Pitch Deck Presentation](https://github.com/user-attachments/assets/bc53fda4-1254-4933-9afb-1f80093027e5)
 - 개발 기간 : 2024.07 ~ 2024.08
 
 <!--
